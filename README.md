@@ -1,6 +1,6 @@
-# RNN_Text_Classify
+# Text_Classify with CNN
 
-This code belongs to the ["implement a RNN for text classification in Tensorflow"](http://blog.csdn.net/u010223750/article/details/53334313) POST
+This code belongs to the ["implement a CNN for text classification in Tensorflow, Keras"](http://blog.csdn.net/u010223750/article/details/53334313) POST
 
 
 
@@ -9,7 +9,7 @@ This code belongs to the ["implement a RNN for text classification in Tensorflow
 
 ## Requirements
 
-Python 2.7
+Python 3.1
 
 Tensorflow ： 0.11(tensorflow with version 1.0 is not supported here, you can transform the code into tensorflow1.0 using the scripts   provided by tensorflow offical website,or you can find some solutions in #issue3)
 
